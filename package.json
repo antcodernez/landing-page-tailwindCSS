@@ -1,0 +1,17 @@
+{
+  "name": "landing-page-tailwindcss",
+  "version": "1.0.0",
+  "description": "A landing page about travels using tailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": " npx tailwindcss -i ./src/css/index.css -o ./public/css/index.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
