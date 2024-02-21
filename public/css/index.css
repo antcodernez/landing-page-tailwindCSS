@@ -566,6 +566,11 @@ video {
   font-weight: 700;
 }
 
+.text-purple-400 {
+  --tw-text-opacity: 1;
+  color: rgb(192 132 252 / var(--tw-text-opacity));
+}
+
 .underline {
   text-decoration-line: underline;
 }
